@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mamoun</groupId>
-	<artifactId>portfolio-tracker</artifactId>
+	<artifactId>kessan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PortfolioTracker</name>
+	<name>kessan</name>
 	<description>Scalable Portfolio Management API</description>
 	<url/>
 	<licenses>

@@ -1,4 +1,4 @@
-package com.mamoun.portfolio_tracker;
+package com.mamoun.kessan;
 
 import java.math.BigDecimal;
 

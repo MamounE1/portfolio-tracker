@@ -1,13 +1,13 @@
-package com.mamoun.portfolio_tracker;
+package com.mamoun.kessan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PortfolioTrackerApplication {
+public class KessanApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PortfolioTrackerApplication.class, args);
+		SpringApplication.run(KessanApplication.class, args);
 	}
 
 }
